@@ -1,0 +1,9 @@
+A neurologist is testing the effect of a drug on response time by injecting 100 rats with 
+a unit of dose of the drug, subjecting each to neurological stimulus and recording its 
+response time. The neurologist knows that the mean response time for rats not injected with the
+drug is 1.2 seconds. The mean of the 100 injected rats response time is 1.05 seconds with the sample standard
+deviation of 0.5 seconds. Do you think that the drug has an affect on response time?
+
+problem source: Khan Academy
+
+https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/hypothesis-testing-and-p-values
